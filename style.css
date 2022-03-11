@@ -38,12 +38,14 @@ h1 {
   justify-content: space-around;
   padding: 25px 55px;
   height: max-content;
+  flex-wrap: wrap;
 }
 .card {
   max-width: 370px;
   max-height: 310px;
   width: 100%;
   padding: 22px;
+  margin: 10px;
   color: white;
   box-sizing: border-box;
   flex-wrap: wrap;
